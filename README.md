@@ -1,5 +1,5 @@
 ### Hey there I'm Aakash 👋!
-### I'm a Full Stack Developer who has worked with Angular, React, Typescript, Java and Ruby on Rails. I've also done mobile development with the hybrid Ionic Cordova framework with Angular. I'm looking for Front End Developer and Full Stack Developer positions
+### I'm a Full Stack Developer who has worked with Angular, React, Typescript, Java and Ruby on Rails. I've also done mobile development with the hybrid Ionic Cordova framework with Angular. I'm currently looking for Front End Developer and Full Stack Developer positions.
 - 🌱 I’m currently learning **NextJS** and **TailwindCSS**
 - 📫 How to reach me: aakashpatel141@gmail.com
 <!--
