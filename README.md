@@ -46,13 +46,16 @@ I'm currently exploring modern frontend technologies and expanding my skills in 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### 📊 GitHub Statistics
+📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aakash006&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aakash006&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aakash006&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash006&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Aakash006&theme=tokyonight&hide_border=true)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Aakash006&theme=tokyonight&hide_border=true" />
+</p>
 
 🌟 Featured Projects
 
