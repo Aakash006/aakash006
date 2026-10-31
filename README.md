@@ -49,11 +49,6 @@ I'm currently exploring modern frontend technologies and expanding my skills in 
 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aakash006&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aakash006&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=Aakash006&theme=tokyonight&hide_border=true" />
 </p>
 
