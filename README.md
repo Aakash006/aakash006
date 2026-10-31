@@ -18,31 +18,41 @@ I'm currently exploring modern frontend technologies and expanding my skills in 
 🤝 Open to collaborating on interesting web and mobile projects.
 💼 Interested in Frontend Developer and Full Stack Developer opportunities.
 📫 Reach me at: **aakashpatel141@gmail.com**
-🛠️ Tech Stack & Tools
 
-Frontend Development
+### 🛠️ Tech Stack & Tools
 
-!Angular !React !TypeScript !JavaScript !HTML5 !CSS3
+**Frontend Development**
 
-Backend Development
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-!Java !.NET !Ruby on Rails
+**Backend Development**
 
-Mobile Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 
-!Ionic !Apache Cordova
+**Mobile Development**
 
-Currently Learning
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Apache Cordova](https://img.shields.io/badge/Cordova-E8E8E8?style=for-the-badge&logo=apachecordova&logoColor=black)
 
-!Next JS !TailwindCSS
+**Currently Learning**
 
-📊 GitHub Statistics
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-!Aakash's GitHub Stats
+### 📊 GitHub Statistics
 
-!Top Languages
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aakash006&show_icons=true&theme=tokyonight&hide_border=true)
 
-!GitHub Streak
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash006&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Aakash006&theme=tokyonight&hide_border=true)
 
 🌟 Featured Projects
 
